@@ -1,0 +1,9 @@
+name: QuickRegen
+main: com.gmail.filoghost.quickregen.QuickRegen
+version: 1.0
+depend: [WildCommons, WorldEdit]
+
+commands:
+   quickregen:
+      description: Rigenera chunk.
+      aliases: [qr]
